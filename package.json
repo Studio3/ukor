@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@willowtreeapps/wist": "^1.0.0-beta.1",
-    "ajv": "^5.1.2",
+    "ajv": "^8.18.0",
     "archiver": "^1.3.0",
     "commander": "^2.9.0",
     "curlrequest": "^1.0.1",
